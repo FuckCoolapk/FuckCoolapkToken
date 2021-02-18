@@ -1,4 +1,3 @@
-package com.fuckcoolapk.utils
 
 import org.apache.commons.codec.binary.Base64
 import org.apache.commons.codec.digest.DigestUtils
